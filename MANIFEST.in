@@ -1,0 +1,2 @@
+recursive-include openedx_event_listener/patches *
+recursive-include openedx_event_listener/templates *
