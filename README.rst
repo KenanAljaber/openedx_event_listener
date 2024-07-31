@@ -1,7 +1,7 @@
-demoplugin plugin for `Tutor <https://docs.tutor.edly.io>`__
+openedx_event_listener App for `Tutor <https://docs.tutor.edly.io>`__
 ############################################################
 
-demoplugin plugin for Tutor
+openedx_event_listener App for Tutor
 
 
 Installation
@@ -9,7 +9,7 @@ Installation
 
 .. code-block:: bash
 
-    pip install git+https://github.com/KenanAljaber/open-edx-plugin-demo.git
+    pip install git+https://github.com/KenanAljaber/openedx_event_listener.git
 
 Usage
 *****
